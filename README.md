@@ -1,5 +1,9 @@
 ### 用Quicker设置Obsidian到PotPlayer的跳转、回链动作
 
+知乎文字链接：[用Quicker设置Obsidian到PotPlayer的跳转、回链动作](https://zhuanlan.zhihu.com/p/690600431)
+
+哔哩哔哩视频链接：[Obsidian与PotPlayer：用Quicker摘录截图，并带上跳转链接](https://www.bilibili.com/video/BV1Lz421U7FY/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 用Quicker可以帮助我们完成一些繁琐的、需要多个操作步骤的动作。
 
 这篇文章中，我用Quicker将的PotPlayer视频截图复制到到Obsidian文件夹、并制作回链且按照callout格式复制到Obsidian笔记中，使之点击Obsidian中的链接能自动打开PotPlayer，并跳转到视频的截图时间戳位置。
